@@ -72,7 +72,7 @@ npm run build
 
 ---
 
-## 💡 Developer Perspective (Interview Focus)
+## 💡 Developer Perspective 
 This project was built to demonstrate **Product Thinking** beyond simple coding. It addresses:
 1.  **System Reliability**: How the app handles "Bad Data" via the Validation Layer.
 2.  **User Personas**: How features are restricted based on Role (RBAC).
@@ -80,4 +80,3 @@ This project was built to demonstrate **Product Thinking** beyond simple coding.
 
 ---
 
-**Designed & Developed for High-Level Financial Placements.**

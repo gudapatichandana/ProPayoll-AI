@@ -140,4 +140,3 @@ This project highlights high-level engineering skills often tested in senior rec
 
 ---
 
-**Designed & Developed for High-Level Financial Placements.**

@@ -55,8 +55,7 @@ graph TD
     STORE --> JSON
 ```
 
-> [!NOTE]
-> **Can't see the diagram?** [Click here to view the high-resolution Architecture Diagram](https://mermaid.ink/img/pako:eNqNUstuwjAQ_JWVpx6S_EBCpUoVByREoR6S9FA5-AAsre0idpMK8u-1Y8ghqZpLPDuzM-v1Wh8ga3MEnS_vId_S0mDscv7rEayrNoW_K56W_6U6B9qX-t0F1E2vH-6XfN9X769019XvBWh6D3_X6tOubm2vL7V-6vS5X90o6Of6UOu_9X7rdYx7B7re09-W_rT1rX6v9aPX5z6v50S0vIP4rWwB0i49y46WzXqGvU_A79T1t9O6sQfI6O3J66rW5-g-9K0_VvVp-yU48Q5irvM1pU6OVsI3V6O3Xn-2H0S23fE)
+
 
 ---
 
